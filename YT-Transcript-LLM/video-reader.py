@@ -1,3 +1,5 @@
+# 'Python File to Look up Youtube Transcript and pass it through local llm model to get summary of video'
+
 import ollama
 from youtube_transcript_api import YouTubeTranscriptApi
 
